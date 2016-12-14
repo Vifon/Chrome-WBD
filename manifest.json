@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+
+    "name": "Web Browser Daemon",
+    "description": "Force Chrome/Chromium to keep running in background after closing the last window",
+    "version": "1.0",
+
+    "permissions": [
+        "background"
+    ]
+}
