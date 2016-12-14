@@ -2,8 +2,15 @@
     "manifest_version": 2,
 
     "name": "Web Browser Daemon",
+    "short_name": "Chrome WBD",
     "description": "Force Chrome/Chromium to keep running in background after closing the last window",
     "version": "1.0",
+
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
 
     "permissions": [
         "background"
